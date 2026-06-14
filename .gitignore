@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+output.stl
+output.step
+rc_filter.cir
+results.json
+pipinstall.log

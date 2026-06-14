@@ -1,0 +1,4 @@
+domain: "bio"
+name: "Aspirin"
+smiles: "CC(=O)Oc1ccccc1C(=O)O"
+target: "COX-1 inhibitor"

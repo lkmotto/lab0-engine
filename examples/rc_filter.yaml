@@ -1,0 +1,5 @@
+domain: "elec"
+name: "RC Low-Pass Filter"
+r_val: "1k"
+c_val: "1u"
+target_cutoff_hz: 159.15

@@ -1,0 +1,9 @@
+domain: "mech"
+name: "L-Bracket"
+length: 50.0
+width: 30.0
+thickness: 5.0
+hole_dia: 10.0
+load_n: 20.0
+material: "PLA"
+material_yield_mpa: 40.0

@@ -1,0 +1,15 @@
+cadquery
+trimesh
+numpy
+scipy
+numpy-stl
+shapely
+manifold3d
+rtree
+skidl
+PySpice
+biopython
+rdkit
+cobra
+requests
+pytest
