@@ -1,6 +1,6 @@
 # lab0: AI-Native Multi-Domain Engineering Engine
 
-`lab0` is a headless, programmable design and simulation engine spanning three domains: **Mechanical, Electronics, and Biomedical**. 
+`lab0` is a headless, programmable design and simulation engine spanning three domains: **Mechanical, Electronics, and Biomedical**.
 
 It is designed specifically for AI agents (like Factory) to parametrically generate designs, run free in-silico validations, and rapidly iterate *before* dispatching to physical fabrication or wet labs.
 
@@ -23,7 +23,7 @@ The fundamental architectural decision in `lab0` is the **Calibration Seam**. Ev
   "trust": "LOW"
 }
 ```
-Currently, all predictions are tagged with a blunt banner: `UNCALIBRATED, predictions only` or `IN SILICO, NOT WET-LAB VALIDATED`. 
+Currently, all predictions are tagged with a blunt banner: `UNCALIBRATED, predictions only` or `IN SILICO, NOT WET-LAB VALIDATED`.
 
 The goal is to feed real physical measurements from the Tier-1 bench back into `materials.py`, closing the loop and shifting the trust level from `LOW` to `HIGH` based on earned physical data.
 

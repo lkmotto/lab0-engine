@@ -1,4 +1,5 @@
-from lab0.trust import uncalibrated, Check
+from lab0.trust import uncalibrated
+
 
 def fetch_structure(spec):
     # Stub for AlphaFold/PDB fetch if needed
