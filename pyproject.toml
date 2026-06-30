@@ -2,3 +2,10 @@
 pythonpath = [
   "src"
 ]
+
+[tool.coverage.run]
+source = ["src"]
+omit = ["tests/*"]
+
+[tool.coverage.report]
+fail_under = 50
